@@ -1,0 +1,7 @@
+DEFINITION MODULE Circles;
+
+PROCEDURE AreaOfCircle(Radius : REAL; VAR Area : REAL);
+
+PROCEDURE PerimeterOfCircle(Radius : REAL; VAR Perim : REAL);
+
+END Circles.
